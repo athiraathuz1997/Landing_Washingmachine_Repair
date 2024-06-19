@@ -1,0 +1,534 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-logo {
+    color: #656565;
+}
+
+.bannerLogo {
+    color: #0391D3;
+
+}
+
+.banner-Logo {
+    columns: #656565;
+}
+
+.logo-Btn {
+    border-radius: 20px !important;
+
+    width: 150px;
+    height: 45px;
+
+}
+
+.location-container {
+    display: inline-block;
+    /* vertical-align: middle; */
+}
+
+.banner-logo {
+    margin-left: 10px;
+    margin-top: 16px;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+}
+
+.Timelogo {
+    color: #656565;
+    font-weight: bold;
+}
+
+.section-bg {
+    background-color: #F8F8F8;
+    font-weight: bold;
+}
+
+.heading-bold {
+    font-weight: bold;
+}
+
+.main-btn {
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: #0391D3;
+    border: none;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-weight: bold;
+}
+
+.mandatory {
+    color: red;
+}
+
+.mandatory-text {
+    color: #515151;
+}
+
+.numbStyle {
+    color: #0391D3;
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-right: 5px;
+}
+
+.background-style {
+    background-color: #F8F8F8;
+    
+}
+.bgBanner-image{
+    background-image: url("images/machinewithman.png");
+    background-repeat:no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+}
+.content-wrapper {
+    padding: 2rem 0; /* Adjust padding as needed */
+}
+
+div.card-main {
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+div.cardmini {
+    width: 250px;
+    border: 1px solid #F6F6F6;
+    text-align: center;
+    margin-right: 10px;
+}
+
+div.headermini {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    font-size: 40px;
+}
+
+.colorPara {
+    color: #5C5C5C;
+    font-weight: 500;
+}
+
+.color-Para {
+    color: #A4A4A4;
+}
+
+.innerSection {
+    background-color: #0391D3;
+}
+
+.dashboardFlex {
+    display: flex;
+}
+
+.btnStyle {
+    margin-left: 10px;
+}
+
+.btnStyle:focus {
+    box-shadow: none !important;
+}
+
+.nopaddingRight {
+    padding-right: 0px !important;
+
+}
+
+.numStyleFlex {
+    display: flex;
+    align-items: center;
+}
+
+
+.alignTocenter {
+    display: flex;
+    justify-content: center;
+}
+
+.AligntoLeft {
+    margin-left: 10px;
+}
+
+.colorsubPara {
+    color: #A4A4A4;
+    font-size: 15px;
+}
+
+.redBtn {
+    border-radius: 20px !important;
+    
+}
+
+.alignwithPosition {
+    position: relative;
+}
+
+.positionAlignsub {
+    position: absolute;
+    margin: auto;
+    top: 30%;
+    left: 10%;
+    max-width: 325px;
+    width: 100%;
+}
+
+.sixthbgImg {
+    background-image: url("images/sixthbgimg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 69%;
+    /* background-attachment: fixed; */
+    /* width: auto; */
+    /* height: 100vh; */
+    /* max-width: 100%; */
+}
+
+.redMandatory {
+    color: red;
+}
+
+.bgProperty {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.sixthPaddingstyle {
+    padding: 10em 0;
+    margin-top: 1em;
+}
+
+.cardStyle {
+    height: 10em !important;
+}
+
+.cardStyle-warning {
+
+    background-image: url("images/maninred.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cardStyle-dark {
+    background-image: url("images/black\ washingmachine.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cardStyle-purple {
+    background-image: url("images/purplelogo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fadecolour {
+    color: #AFAFAF !important;
+}
+
+.whitetext {
+    color: white !important;
+}
+
+.whitetext-style {
+    color: white !important;
+    font-family: Robot;
+}
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif !important;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.boxBorder {
+    border: 1px solid #3CA7DB;
+    padding: 20px;
+    height: 12em;
+    vertical-align: middle;
+    position: relative;
+    margin-bottom: 5em;
+}
+
+.seventh-heading {
+    text-align: center;
+}
+
+.msgicon {
+    height: 40px !important;
+    margin-right: 20px;
+}
+
+.alignVertical {
+    transform: translate(10px, 10px);
+}
+
+.seperateBox {
+    width: 5em;
+    height: 5em;
+    background-color: #3CA7DB;
+    position: absolute;
+    top: -50px;
+    left: -10px;
+    padding: 10px;
+}
+
+.schemeHeight {
+    margin-bottom: 5em;
+}
+.mediaQueryFont{
+    display:block;
+    width:500px;
+    word-wrap:normal;
+    text-align: justify;
+}
+@media only screen and (max-width: 1199px) {
+    .reqcallSenten {
+        font-size: 20px;
+    }
+
+    .mediaQueryFont {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .reqcallSenten {
+        font-size: 18px;
+    }
+
+    .mediaQueryFont {
+        font-size: 14px;
+        width:300px;
+        
+    }
+  
+}
+@media only screen and (max-width: 767px) {
+    
+    .mediaQueryFont {
+        width:195px;
+        
+    }
+  
+}
+
+.manWithMachine-bgimage {
+    background-image: url("images/newbannersecond.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 8em;
+}
+
+
+
+/* .bgSection {
+    background-image: url("images/bgSectionwithman.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 130px;
+} */
+.legendStyle {
+    all: revert;
+}
+
+fieldset.legendStyle {
+    border: 1px solid #3CA7DB;
+    height: 18em;
+}
+
+legend.legendStyle {
+    text-align: center;
+}
+
+.textWeight {
+    font-weight: 600;
+}
+
+.fadecolour-text {
+    text-align: justify;
+}
+@media only screen and (max-width: 991px) and (min-width: 768px){
+    fieldset.legendStyle  {
+        height: 25em;
+    }
+}
+.textJustify {
+    text-align: justify;
+}
+
+.finalbg {
+    background-image: url("images/lastbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+}
+
+
+.select-container {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.select-container .select {
+    position: relative;
+    background: white;
+    height: 60px;
+}
+
+.select-container .select::after {
+    position: absolute;
+    content: "";
+    width: 10px;
+    height: 10px;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%) rotate(45deg);
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    cursor: pointer;
+    transition: border-color 0.4s;
+}
+.select-container .select input {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 0 15px;
+    background: none;
+    outline: none;
+    border: none;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+}
+.select-container .option-container {
+    position: relative;
+    background: #6e6477;
+    height: 0;
+    overflow-y: scroll;
+    transition: 0.4s;
+}
+.select-containerModify .select{
+    /* width: 600px;; */
+    height: 135px !important;
+}
+.inner-padding{
+    padding-left: 5em;
+    padding-top: 0.5em;
+}
+.fadeStyle{
+    padding: 5px 40px;
+    text-align: justify;
+    font-size: 12px;
+}
+@media only screen and (max-width: 600px){
+    .fadeStyle{
+        padding: 5px 5px;
+    }
+    .inner-padding{
+        padding-left: 1em;
+    }
+    /* .select-container .select {
+      
+        height: 70px;
+    } */
+    .select-containerModify .select{
+   
+        height: 195px !important;
+    }
+}
+
+iframe {
+    display: block;
+    width: 100%;
+    max-width: 100rem;
+    height: 25em;
+}
+.map-container {
+    position: relative;
+    width: 100%;
+    height: 400px; /* Set a fixed height for the map */
+}
+.mapBox{
+    position: absolute;
+    bottom: 20px;
+    left: 330px;
+    width: 20em;
+    top: 105px;
+    height: 18em;
+    background-color: white;
+    padding: 20px;
+    
+}
+@media only screen and (max-width: 767px) {
+    .mapBox{
+        left: 80px;
+    }}
+
+.footer{
+    background-color: #F5F7F9;
+    padding:25px;
+    font-size: 12px;
+}
+.marginalign{
+    margin-left: 10px;
+}
+.bannerWidth{
+    width: 50%;
+}
+@media only screen and (max-width: 767px) {
+    .content-wrapper{
+        background-color: rgba(255, 255, 255,.6);
+    }
+}
+.imageResize-first{
+    height: auto;
+    width: 40%;
+}
+#image1{
+    height: 29.7rem;
+    padding: 50px 0;
+}
+.imageResize{
+    height: 230px;
+}
+.smallCard{
+    width: 200px;
+}
+#hero-section {
+    background: url('images/bgSectionwithman.png') no-repeat center center;
+    /* background-image: url("images/bgSectionwithman.png"); */
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+#hero-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.container {
+    position: relative;
+    z-index: 1;
+}
+
+
